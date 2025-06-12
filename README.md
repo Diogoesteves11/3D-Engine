@@ -2,23 +2,6 @@
 
 Um motor gráfico 3D básico em C++ com OpenGL/GLUT, criado como projeto académico para a cadeira de Computação Gráfica.
 
----
-
-## 🧩 Estrutura do Repositório
-
-├── src/ # Código-fonte em C++
-├── include/ # Cabeçalhos (.h/.hpp)
-├── shaders/ # Ficheiros de shaders GLSL
-├── models/ # Modelos 3D (por exemplo, .obj)
-├── textures/ # Imagens de textura
-├── scripts/ # Ferramentas auxiliares (ex: geração de malhas)
-├── demos/ # Cenários ou exemplos
-├── CMakeLists.txt # Configuração de build com CMake
-└── README.md # Este ficheiro
-
-
----
-
 ## 🚀 Funcionalidades
 
 - Renderização de malhas 3D com texturas aplicadas  
